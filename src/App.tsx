@@ -64,7 +64,7 @@ export default function App() {
         aria-label="American Express Gold Card ending in 2962"
       >
         <img
-          src="/amex-card.png"
+          src="/assets/aistudio/IMG_4731_f36bb356.png"
           alt="American Express"
           className="amex-image"
         />
@@ -219,7 +219,7 @@ export default function App() {
         <div className="stacked-card card-bog-black">
           <div className="bog-logo-box-small">
             <img
-              src="/bog-logo.png"
+              src="/assets/aistudio/9E88B6A4-51E6-40D3-892E-BADA90DEA763_51843e23.png"
               alt="BOG Lion"
               className="real-logo-img"
             />

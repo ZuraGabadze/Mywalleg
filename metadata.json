@@ -1,0 +1,6 @@
+{
+  "name": "Apple Pay Wallet",
+  "description": "A pixel-perfect iOS Apple Pay and Apple Wallet progressive web application featuring contactless payment animations and card stack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
